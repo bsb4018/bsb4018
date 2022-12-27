@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Face Authentication System using Deep Learning](https://github.com/bsb4018/auth-bsb-sys)
 
-- 🌱 I’m currently learning **MLOPS, PowerBI, Natural Language Processing**
+- 🌱 I’m currently learning **MLOPS, PowerBI, Recommender Systems**
 
 - 👯 I’m looking to collaborate on **any Machine Learning, Deep Learning, MLOPS Pipeline Projects**
 
