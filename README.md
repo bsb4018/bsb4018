@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shibendra B Bhattacharjee</h1>
 <h3 align="center">I enjoy being a Developer , Researcher, Problem Solver</h3>
 
-- 🔭 I’m currently working on [Face Authentication System using Deep Learning](https://github.com/bsb4018/auth-bsb-sys)
+- 🔭 I’m currently working on [Recommender Systems]
 
 - 🌱 I’m currently learning **MLOPS, PowerBI, Recommender Systems**
 
