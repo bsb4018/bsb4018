@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shibendra B Bhattacharjee</h1>
-<h3 align="center">I enjoy being a Developer , Researcher, Problem Solver</h3>
+<h3 align="center">I enjoy being a Developer and Analyze Systems and Data</h3>
 
 - 🔭 I’m currently working on [Recommender Systems]
 
-- 🌱 I’m currently learning **MLOPS, PowerBI, Recommender Systems**
+- 🌱 I’m currently learning **MLOPS, Recommender Systems**
 
 - 👯 I’m looking to collaborate on **any Machine Learning, Deep Learning, MLOPS Pipeline Projects**
 
