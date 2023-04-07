@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibendra B Bhattacharjee</h1>
-<h3 align="center">I enjoy being a Developer. I have skills in Data Analysis, Data Science.</h3>
+<h3 align="center">I enjoy being a Developer. I have skills in Machine Learning, Data Science, Data Science.</h3>
 
 - 🔭 I’m currently working on [Recommender Systems]
 
