@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any Machine Learning, Deep Learning, MLOPS Pipeline Projects**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 💬 Ask me about **Machine Learning, Image Classification, Text Classification, Object Detection**
 
 - 📫 How to reach me **storebshiv@gmail.com**
 
