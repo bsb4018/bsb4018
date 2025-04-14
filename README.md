@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shibendra B Bhattacharjee</h1>
-<h3 align="center">I enjoy being a Developer. I have skills in Software Development, Machine Learning, Data Science.</h3>
+<h3 align="center">I enjoy being a Developer. I have skills in AI, Machine Learning, Data Science, MLOPS</h3>
 
-- 🔭 I’m currently working on [Recommender Systems]
+- 🔭 I’m currently working on [Generative AI | Agentic AI]
 
-- 🌱 I’m currently learning **MLOPS, Recommender Systems**
+- 🌱 I’m currently learning **Agents**
 
-- 👯 I’m looking to collaborate on **any Machine Learning, Deep Learning, MLOPS Pipeline Projects**
+- 👯 I’m looking to collaborate on **any AI, Machine Learning, Deep Learning, MLOPS Pipeline Projects**
 
-- 💬 Ask me about **Machine Learning, Image Classification, Text Classification, Object Detection**
+- 💬 Ask me about **Machine Learning, Generative AI, LLM, NLP**
 
 - 📫 How to reach me **storebshiv@gmail.com**
 
